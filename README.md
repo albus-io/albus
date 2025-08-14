@@ -17,7 +17,7 @@ The Albus project is currently in an intensive development phase. Work is underw
 
 ## Contributing
 
-Albus is firmly committed to the philosophy of open source. We would be delighted to welcome all developers, security researchers, and technology enthusiasts who wish to support this revolutionary vision. While it is still early for code contributions, you are welcome to share your ideas and suggestions with us through the [Discussions](https://github.com/albus-io/albus-project/discussions) section.
+Albus is firmly committed to the philosophy of open source. We would be delighted to welcome all developers, security researchers, and technology enthusiasts who wish to support this revolutionary vision. While it is still early for code contributions, you are welcome to share your ideas and suggestions with us through the [Discussions](https://github.com/albus-io/albus/discussions) section.
 
 ## License
 
